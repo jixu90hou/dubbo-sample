@@ -1,3 +1,4 @@
 */target/*
 .idea
-dubbo-sample.iml
+*.iml
+*/*.iml
